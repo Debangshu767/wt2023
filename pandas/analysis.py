@@ -30,6 +30,9 @@ df["pos"] = df["pos"].map({
 
 })
 
+
+
+
 def show_pie_plot(df,key) :
     counts = df[key].value_counts()
     count_values = counts.value_counts
