@@ -1,0 +1,64 @@
+{
+    "accessKey": "bd368fc4-9632-11ed-b6c6-acde48001122",
+    "secretKey": "eabcbb3a-df18-460d-8e4f-2ce2baf5d6dd",
+    "item_type": [
+        "Food",
+        "Beverages",
+        "Clothing",
+        "Stationaries",
+        "Wearables",
+        "Electronics Accessories"
+    ],
+    "users": [
+        {
+            "name": "Akash Munshi",
+            "email": "akashmunshi07@gmail.com",
+            "password": "123456",
+            "username": "akash_munshi",
+            "purchases": {
+                "2023-01-18": [
+                    {
+                        "item_name": "Maggi",
+                        "item_type": "Food",
+                        "item_price": "40",
+                        "purchase_time": "2023-01-18 12:21:23.160135+05:30"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "Avijit",
+            "email": "avijit@gmail.com",
+            "password": "123456",
+            "username": "avijit",
+            "purchases": {
+                "2023-01-18": [
+                    {
+                        "item_name": "Maggi",
+                        "item_type": "Food",
+                        "item_price": "40",
+                        "purchase_time": "2023-01-18 12:21:27.625765+05:30"
+                    },
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 12:22:12.177434+05:30"
+                    },
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 12:31:00.181719+05:30"
+                    },
+                    {
+                        "item_name": "Stationaries",
+                        "item_type": "14 Sheets",
+                        "item_price": "210",
+                        "purchase_time": "2023-01-18 12:31:16.487605+05:30"
+                    }
+                ]
+            }
+        }
+    ]
+}
